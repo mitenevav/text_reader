@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1571424126 source:c:\myprogr\codeblocks\test\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<limits.h>
+	<math.h>
+	"Data.h"
+
+1572698423 c:\myprogr\codeblocks\test\data.h
+	<windows.h>
+
+1573999733 source:c:\myprogr\codeblocks\test\data.c
+	"Data.h"
+	<stdlib.h>
+	<stdio.h>
+	"Errors.h"
+
+1572656335 source:c:\myprogr\codeblocks\test\main.c
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	"Data.h"
+	"MyMenu.h"
+	"Scroll.h"
+	<commdlg.h>
+	"Errors.h"
+
+1572648310 c:\myprogr\codeblocks\test\mymenu.h
+
+1572648316 source:c:\myprogr\codeblocks\test\mymenu.rc
+	"MyMenu.h"
+
+1572698268 c:\myprogr\codeblocks\test\scroll.h
+	"Data.h"
+
+1572654595 source:c:\myprogr\codeblocks\test\scroll.c
+	"Scroll.h"
+	<windows.h>
+	<math.h>
+	"Errors.h"
+
+1572654101 source:c:\myprogr\codeblocks\test\errors.c
+	"Errors.h"
+	<string.h>
+
+1572698315 c:\myprogr\codeblocks\test\errors.h
+	"Data.h"
+
